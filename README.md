@@ -12,14 +12,14 @@ Telegram-бот и API для проверки IMEI устройств.
    ```bash
    git clone https://github.com/ваш-логин/imei-check-bot.git
 
-2.Установите зависимости:
-```bash
+2. Установите зависимости:
+   ```bash
    pip install -r requirements.txt
 
 3. Запустите бота:
-```bash
+   ```bash
    python main.py
 
 4. Запустите API:
-```bash
-python api.py
+   ```bash
+   python api.py
